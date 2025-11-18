@@ -1,0 +1,353 @@
+{
+  "wilayas": [
+    {
+      "id": 1,
+      "name": "أدرار",
+      "ToHome": 1000,
+      "ToOffice": 600
+    },
+    {
+      "id": 2,
+      "name": "الشلف",
+      "ToHome": 600,
+      "ToOffice": 350
+    },
+    {
+      "id": 3,
+      "name": "الاغواط",
+      "ToHome": 750,
+      "ToOffice": 500
+    },
+    {
+      "id": 4,
+      "name": "ام البواقي",
+      "ToHome": 700,
+      "ToOffice": 400
+    },
+    {
+      "id": 5,
+      "name": "باتنة",
+      "ToHome": 650,
+      "ToOffice": 350
+    },
+    {
+      "id": 6,
+      "name": "بجاية",
+      "ToHome": 550,
+      "ToOffice": 300
+    },
+    {
+      "id": 7,
+      "name": "بسكرة",
+      "ToHome": 800,
+      "ToOffice": 500
+    },
+    {
+      "id": 8,
+      "name": "بشار",
+      "ToHome": 1050,
+      "ToOffice": 700
+    },
+    {
+      "id": 9,
+      "name": "البليدة",
+      "ToHome": 250,
+      "ToOffice": 0
+    },
+    {
+      "id": 10,
+      "name": "البويرة",
+      "ToHome": 600,
+      "ToOffice": 400
+    },
+    {
+      "id": 11,
+      "name": "تمنراست",
+      "ToHome": 1200,
+      "ToOffice": 600
+    },
+    {
+      "id": 12,
+      "name": "تبسة",
+      "ToHome": 700,
+      "ToOffice": 450
+    },
+    {
+      "id": 13,
+      "name": "تلمسان",
+      "ToHome": 700,
+      "ToOffice": 400
+    },
+    {
+      "id": 14,
+      "name": "تيارت",
+      "ToHome": 700,
+      "ToOffice": 400
+    },
+    {
+      "id": 15,
+      "name": "تيزي وزو",
+      "ToHome": 550,
+      "ToOffice": 350
+    },
+    {
+      "id": 16,
+      "name": "الجزائر",
+      "ToHome": 250,
+      "ToOffice": 100
+    },
+    {
+      "id": 17,
+      "name": "الجلفة",
+      "ToHome": 750,
+      "ToOffice": 500
+    },
+    {
+      "id": 18,
+      "name": "جيجل",
+      "ToHome": 600,
+      "ToOffice": 400
+    },
+    {
+      "id": 19,
+      "name": "سطيف",
+      "ToHome": 550,
+      "ToOffice": 350
+    },
+    {
+      "id": 20,
+      "name": "سعيدة",
+      "ToHome": 750,
+      "ToOffice": 450
+    },
+    {
+      "id": 21,
+      "name": "سكيكدة",
+      "ToHome": 650,
+      "ToOffice": 400
+    },
+    {
+      "id": 22,
+      "name": "سيدي بلعباس",
+      "ToHome": 650,
+      "ToOffice": 400
+    },
+    {
+      "id": 23,
+      "name": "عنابة",
+      "ToHome": 550,
+      "ToOffice": 350
+    },
+    {
+      "id": 24,
+      "name": "قالمة",
+      "ToHome": 700,
+      "ToOffice": 400
+    },
+    {
+      "id": 25,
+      "name": "قسنطينة",
+      "ToHome": 550,
+      "ToOffice": 350
+    },
+    {
+      "id": 26,
+      "name": "المدية",
+      "ToHome": 600,
+      "ToOffice": 400
+    },
+    {
+      "id": 27,
+      "name": "مستغانم",
+      "ToHome": 600,
+      "ToOffice": 400
+    },
+    {
+      "id": 28,
+      "name": "المسيلة",
+      "ToHome": 650,
+      "ToOffice": 400
+    },
+    {
+      "id": 29,
+      "name": "معسكر",
+      "ToHome": 650,
+      "ToOffice": 400
+    },
+    {
+      "id": 30,
+      "name": "ورقلة",
+      "ToHome": 800,
+      "ToOffice": 500
+    },
+    {
+      "id": 31,
+      "name": "وهران",
+      "ToHome": 550,
+      "ToOffice": 300
+    },
+    {
+      "id": 32,
+      "name": "البيض",
+      "ToHome": 850,
+      "ToOffice": 550
+    },
+    {
+      "id": 33,
+      "name": "اليزي",
+      "ToHome": 1300,
+      "ToOffice": 900
+    },
+    {
+      "id": 34,
+      "name": "برج بوعريريج",
+      "ToHome": 600,
+      "ToOffice": 400
+    },
+    {
+      "id": 35,
+      "name": "بومرداس",
+      "ToHome": 500,
+      "ToOffice": 350
+    },
+    {
+      "id": 36,
+      "name": "الطارف",
+      "ToHome": 700,
+      "ToOffice": 700
+    },
+    {
+      "id": 37,
+      "name": "تيندوف",
+      "ToHome": 1300,
+      "ToOffice": 900
+    },
+    {
+      "id": 38,
+      "name": "تيسمسيلت",
+      "ToHome": 700,
+      "ToOffice": 400
+    },
+    {
+      "id": 39,
+      "name": "الوادي",
+      "ToHome": 800,
+      "ToOffice": 500
+    },
+    {
+      "id": 40,
+      "name": "خنشلة",
+      "ToHome": 700,
+      "ToOffice": 450
+    },
+    {
+      "id": 41,
+      "name": "سوق أهراس",
+      "ToHome": 800,
+      "ToOffice": 450
+    },
+    {
+      "id": 42,
+      "name": "تيبازة",
+      "ToHome": 500,
+      "ToOffice": 350
+    },
+    {
+      "id": 43,
+      "name": "ميلة",
+      "ToHome": 650,
+      "ToOffice": 400
+    },
+    {
+      "id": 44,
+      "name": "عين الدفلى",
+      "ToHome": 600,
+      "ToOffice": 400
+    },
+    {
+      "id": 45,
+      "name": "النعامة",
+      "ToHome": 900,
+      "ToOffice": 600
+    },
+    {
+      "id": 46,
+      "name": "عين تموشنت",
+      "ToHome": 600,
+      "ToOffice": 450
+    },
+    {
+      "id": 47,
+      "name": "غرداية",
+      "ToHome": 850,
+      "ToOffice": 500
+    },
+    {
+      "id": 48,
+      "name": "غليزان",
+      "ToHome": 600,
+      "ToOffice": 450
+    },
+    {
+      "id": 49,
+      "name": "تيميمون",
+      "ToHome": 1200,
+      "ToOffice": 1200
+    },
+    {
+      "id": 50,
+      "name": "برج باجي مختار",
+      "ToHome": "n/a",
+      "ToOffice": "n/a"
+    },
+    {
+      "id": 51,
+      "name": "أولاد جلال",
+      "ToHome": 800,
+      "ToOffice": 800
+    },
+    {
+      "id": 52,
+      "name": "بني عباس",
+      "ToHome": 1100,
+      "ToOffice": 1010
+    },
+    {
+      "id": 53,
+      "name": "عين صالح",
+      "ToHome": 1200,
+      "ToOffice": 1400
+    },
+    {
+      "id": 54,
+      "name": "عين قزام",
+      "ToHome": "n/a",
+      "ToOffice": "n/a"
+    },
+    {
+      "id": 55,
+      "name": "تقرت",
+      "ToHome": 850,
+      "ToOffice": 850
+    },
+    {
+      "id": 56,
+      "name": "جانت",
+      "ToHome": "n/a",
+      "ToOffice": "n/a"
+    },
+    {
+      "id": 57,
+      "name": "المغير",
+      "ToHome": 900,
+      "ToOffice": 900
+    },
+    {
+      "id": 58,
+      "name": "المنيعة",
+      "ToHome": 900,
+      "ToOffice": 600
+    }
+  ],
+  "products": []
+}
